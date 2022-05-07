@@ -1,3 +1,3 @@
 # Sonar-rock-vs-mine
 
-Machine Learning project that predicts if the object beneath a submarine is either a mine or a rock. The submarine uses Sonar to see what is underneath it.
+Machine Learning project that uses Linear Regression to predict if an object under a submarine is a rock or a mine.
